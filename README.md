@@ -4,14 +4,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="400px" align="right">
 <p align="left" >👋 Olá! Sou João Lucas, um desenvolvedor em formação 💻, estou no último semestre do meu curso de Sistemas de Informação. Estou sempre em busca de novos desafios 🚀 e oportunidades para aprimorar minhas habilidades em desenvolvimento web.
 
-🚀 **Linguagens:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React e Next.js.
+🚀 **Linguagens:** 
+- HTML, CSS, Tailwind CSS,
+- JavaScript, TypeScript
+- React e Next.js.
 
-📚 **Frameworks e Bibliotecas:** React e Next.js.
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-
+📚 **Frameworks e Bibliotecas:**
+- ReactJs
+- Next.Js
 </p>
 
 
