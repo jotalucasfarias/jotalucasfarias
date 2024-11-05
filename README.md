@@ -5,6 +5,7 @@
 <p align="left" >Sou João Lucas Farias da Silva, um desenvolvedor em formação 💻, com conhecimentos em HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React e Next.js. Estou sempre em busca de novos desafios 🚀 e oportunidades para aprimorar minhas habilidades em desenvolvimento web.
 </p>
 
+## ㅤㅤㅤ
 <div>
  <a  href = "https://github.com/unknownjoao">
  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=unknownjoao&show_icons=true&theme=tokyonight"/>
