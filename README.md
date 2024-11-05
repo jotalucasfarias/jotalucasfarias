@@ -6,6 +6,13 @@
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="400px" align="right">
 
+
+<div>
+ <a  href = "https://github.com/unknownjoao">
+ <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=unknownjoao&show_icons=true&theme=tokyonight"/>
+ <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unknownjoao&layout=compact&theme=tokyonight"/>
+</div>
+
 ## Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -32,16 +39,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-
-
-
-<div>
- <a  href = "https://github.com/unknownjoao">
- <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=unknownjoao&show_icons=true&theme=tokyonight"/>
- <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unknownjoao&layout=compact&theme=tokyonight"/>
-</div>
-
 ## 🌐 Contato:
 <div align="left">
   <a href="mailto:jotalucasfarias@gmail.com" target="_blank">
