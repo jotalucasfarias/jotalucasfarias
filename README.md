@@ -8,7 +8,7 @@
  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unknownjoao&layout=compact&theme=tokyonight"/>
 </div>
 
-#💻 Tecnologias:
+<h2>💻 Tecnologias:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
