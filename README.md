@@ -4,6 +4,7 @@
 
 <p align="left" >Sou João Lucas Farias da Silva, um desenvolvedor em formação 💻, com conhecimentos em HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React e Next.js. Estou sempre em busca de novos desafios 🚀 e oportunidades para aprimorar minhas habilidades em desenvolvimento web.
 </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="400px" align="right">
 
 ## Tecnologias
 <div align="left">
@@ -32,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="400px" align="right">
+
 
 
 <div>
