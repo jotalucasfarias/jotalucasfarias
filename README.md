@@ -7,7 +7,7 @@
 🚀 **Linguagens:** 
 - HTML, CSS, Tailwind CSS,
 - JavaScript, TypeScript
-- React e Next.js.
+- React
 
 📚 **Frameworks e Bibliotecas:**
 - ReactJs
@@ -17,9 +17,9 @@
 
 
 <div>
- <a  href = "https://github.com/unknownjoao">
- <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=unknownjoao&show_icons=true&theme=tokyonight"/>
- <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unknownjoao&layout=compact&theme=tokyonight"/>
+ <a  href = "https://github.com/jotalucasfarias">
+ <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jotalucasfarias&show_icons=true&theme=tokyonight"/>
+ <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jotalucasfarias&layout=compact&theme=tokyonight"/>
 </div>
 
 ## 🚀Skills
