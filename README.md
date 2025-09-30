@@ -1,15 +1,15 @@
 ## 💫 Sobre Mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="400px" align="right">
 <p align="left">
-👋 Olá! Sou João Lucas, desenvolvedor em formação 💻, no último semestre do curso de **Sistemas de Informação**.  
-Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades em **desenvolvimento web**, e atualmente estou expandindo meus conhecimentos para o **backend com Node.js**, com foco em me tornar **Full Stack Developer**.
+👋 Olá! Sou João Lucas, desenvolvedor em formação 💻, no último semestre do curso de <strong>Sistemas de Informação</strong>.  
+Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades em <strong>desenvolvimento web</strong>, e atualmente estou expandindo meus conhecimentos para o <strong>backend com Node.js</strong>, com foco em me tornar <strong>Full Stack Developer</strong>.
 
-🚀 **Linguagens e Tecnologias:**  
+🚀 <strong>Linguagens e Tecnologias:</strong>  
 - HTML, CSS, Tailwind CSS  
 - JavaScript, TypeScript  
 - Node.js
 
-📚 **Frameworks e Bibliotecas:**  
+📚 <strong>Frameworks e Bibliotecas:</strong>  
 - React.js  
 - Next.js
 </p>
@@ -49,11 +49,11 @@ Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habil
   <a href="mailto:jotalucasfarias@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/jottalucasfarias/" target="_blank">
+  <a href="https://www.linkedin.com/in/jotalucasfarias/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 <p align="left">
-Fique à vontade para entrar em contato comigo para discutir **colaborações, projetos interessantes** ou qualquer assunto relacionado à programação. 😁
+Fique à vontade para entrar em contato comigo para discutir <strong>colaborações, projetos interessantes</strong> ou qualquer assunto relacionado à programação. 😁
 </p>
