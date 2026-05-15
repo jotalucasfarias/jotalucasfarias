@@ -1,17 +1,34 @@
 ## 💫 Sobre Mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="400px" align="right">
 <p align="left">
-👋 Olá! Sou João Lucas, desenvolvedor em formação 💻, no último semestre do curso de <strong>Sistemas de Informação</strong>.  
-Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades em <strong>desenvolvimento web</strong>, e atualmente estou expandindo meus conhecimentos para o <strong>backend com Node.js</strong>, com foco em me tornar <strong>Full Stack Developer</strong>.
+👋 Olá! Sou João Lucas Farias da Silva, formado em <strong>Sistemas de Informação</strong> e apaixonado por tecnologia.
+Tenho experiência com <strong>Suporte Técnico N1/N2</strong>, manutenção de computadores, redes e desenvolvimento web.
 
-🚀 <strong>Linguagens e Tecnologias:</strong>  
-- HTML, CSS, Tailwind CSS  
-- JavaScript, TypeScript  
-- Node.js
+💻 Atualmente trabalho com suporte técnico e também estudo desenvolvimento <strong>Full Stack</strong>, buscando evoluir cada vez mais em tecnologias modernas voltadas para aplicações web.
 
-📚 <strong>Frameworks e Bibliotecas:</strong>  
-- React.js  
-- Next.js
+🚀 <strong>Tecnologias e Ferramentas:</strong>
+
+HTML, CSS, Tailwind CSS
+JavaScript, TypeScript
+React.js, Next.js
+Git e GitHub
+Node.js
+Windows e Linux (Ubuntu)
+
+🛠️ <strong>Experiência:</strong>
+
+Suporte técnico presencial e remoto
+Diagnóstico e resolução de problemas de rede
+Montagem, configuração e manutenção de computadores
+Atendimento help desk
+Desenvolvimento de interfaces web responsivas
+
+📚 Atualmente continuo aprofundando meus conhecimentos em:
+
+Backend com Node.js
+APIs REST
+Banco de dados
+Desenvolvimento Full Stack
 </p>
 
 <div>
