@@ -31,13 +31,6 @@ Banco de dados
 Desenvolvimento Full Stack
 </p>
 
-<div>
- <a href="https://github.com/jotalucasfarias">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotalucasfarias&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalucasfarias&layout=compact&theme=tokyonight"/>
- </a>
-</div>
-
 ## 🚀 Habilidades
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
